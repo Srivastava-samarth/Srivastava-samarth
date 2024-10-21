@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samarth Srivastava</h1>
-<h3 align="center">A passionate and creative Frontend Developer with a keen interest in Full Stack Development. Dedicated to creating seamless and visually appealing designs</h3>
+<h3 align="center">A passionate and innovative Full Stack Developer with a strong focus on backend development and microservices architecture. Proficient in building scalable and efficient systems, with a dedication to creating seamless and functional solutions using modern technologies like Go, Node.js, React.js, and MongoDB.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivastava-samarth&label=Profile%20views&color=0e75b6&style=flat" alt="srivastava-samarth" /> </p>
 
-- 🌱 I’m currently learning **Golang for backend development**
+- 🌱 I’m currently learning **Microservices using Golang**
 
-- 💬 Ask me about **frontend development and embedded programming**
+- 💬 Ask me about **Backend Development, Golang, gRPC, Microservices and Embedded Programming**
 
 - 📫 How to reach me **srivastavasamarth94@gmail.com**
 
