@@ -232,9 +232,6 @@ I want to get better at the parts of software engineering that become important 
   <a href="https://www.linkedin.com/in/samarth-srivastava94/">
     <img src="https://img.shields.io/badge/LinkedIn-Samarth%20Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://leetcode.com/u/srivastava_samarth9411/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
   <a href="https://github.com/Srivastava-samarth">
     <img src="https://img.shields.io/badge/GitHub-Srivastava--samarth-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
