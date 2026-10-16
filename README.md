@@ -225,18 +225,3 @@ Fault Tolerant
 I want to get better at the parts of software engineering that become important when **"it works on my machine" is no longer enough.**
 
 ---
-
-# 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samarth-srivastava94/">
-    <img src="https://img.shields.io/badge/LinkedIn-Samarth%20Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Srivastava-samarth">
-    <img src="https://img.shields.io/badge/GitHub-Srivastava--samarth-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
-<p align="center">
-  <strong>Code. Build. Break. Learn. 🚀</strong>
-</p>
