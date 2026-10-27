@@ -1,7 +1,7 @@
 # 👋 I'm Samarth Srivastava
 
 <p align="center">
-  <strong>Software Engineer · Go Developer · Backend Engineer</strong>
+  <strong>Software Engineer · Golang Developer · Backend Engineer</strong>
 </p>
 
 ---
