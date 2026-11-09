@@ -1,4 +1,4 @@
-# Hey, 👋I'm Samarth Srivastava
+# 👋I'm Samarth Srivastava
 
 <p align="center">
   <strong>Software Engineer · Golang Developer · Backend Engineer</strong>
