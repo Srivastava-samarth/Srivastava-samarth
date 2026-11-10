@@ -49,8 +49,6 @@ I also build things outside of work to understand concepts by actually implement
 <p>
   <img src="https://img.shields.io/badge/Go%20%2F%20Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Gin">
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs">
-  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="gRPC">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
   <img src="https://img.shields.io/badge/Microservices-333333?style=for-the-badge" alt="Microservices">
 </p>
 
@@ -61,7 +59,6 @@ I also build things outside of work to understand concepts by actually implement
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
   <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats.io&logoColor=white" alt="NATS">
-  <img src="https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white" alt="CockroachDB">
 </p>
 
 ### ☁️ Infrastructure & Tools
